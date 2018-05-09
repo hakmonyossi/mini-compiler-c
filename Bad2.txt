@@ -1,0 +1,16 @@
+program
+integer *num1, num2;
+char int c1,c[6],d5[4]
+start
+num1 :=100;
+c1 := 5;
+num2 == num1 + 5;
+cycle 
+{
+integer num3;
+start
+num1 := num1 mod 2
+}
+until num1 == 0
+end_cycle
+end

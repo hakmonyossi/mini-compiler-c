@@ -1,0 +1,19 @@
+program
+char c, str*[8], *str2
+start
+ptr := arr[12];
+sum := num + 4;
+cycle * 
+{
+integer *ptr, arr[12]
+start
+ptr := arr[8]
+}
+until ptr != NULL
+end_cycle;
+{
+char c
+start
+c:='z'
+}
+end
